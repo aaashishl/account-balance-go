@@ -4,7 +4,6 @@ This project helps you to check the balance of an Alephium address using a simpl
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * go https://go.dev/doc/install
   
 ### Installation
